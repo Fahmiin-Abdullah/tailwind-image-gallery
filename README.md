@@ -10,3 +10,4 @@ The project is built on React as a dynamic SPA with search functionality. The AP
 
 ### Final thoughts
 1. This was a very simple project built on the fundamentals of React as well as React hooks for altering states.
+2. Ensure that all environment variables are set up in deployment server. Use dotenv to allow app to access environment variables.
